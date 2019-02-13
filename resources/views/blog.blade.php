@@ -104,8 +104,8 @@
 <body>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-    <h1>My First Bootstrap 4 Page</h1>
-    <p>Resize this responsive page to see the effect!</p>
+    <h1>Blog</h1>
+
 </div>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -116,7 +116,7 @@
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href={{"/"}}>Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Link</a>
