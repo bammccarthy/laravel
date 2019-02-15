@@ -1,0 +1,10 @@
+.item {
+    width: 150px;
+    height: 100px;
+    margin: 50px auto;
+    padding-top: 75px;
+    background: #ccc;
+    text-align: center;
+    color: #FFF;
+    font-size: 3em;
+}
