@@ -34,11 +34,11 @@
                 position: relative;
             }
 
-            .top-right {
+            /*.top-right {
                 position: absolute;
                 right: 10px;
                 top: 18px;
-            }
+            } */
 
             .content {
                 text-align: center;
@@ -73,9 +73,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="#">CodePen</a>
+                    <a href="https://codepen.io/mccjams/">CodePen</a>
                     <a href={{"blog"}}>Blog</a>
-                    <a href="#">GitHub</a>
+                    <a href="https://github.com/bammccarthy">GitHub</a>
                 </div>
             </div>
         </div>
